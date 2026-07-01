@@ -142,14 +142,14 @@ export default function App() {
         <section className="hero" id="sobre">
           <div className="hero-content">
             <div className="hero-left">
-              <span className="tag">SAP SD · ABAP · Localização Brasil</span>
+              <span className="tag">SAP SD · ABAP · Localização Brasil · Analise de Dados </span>
               <h1 className="hero-title">
                 ANALISTA<br />
                 <span className="dim">QUE</span><br />
                 <span className="acc"><CyclingText /></span>
               </h1>
               <p className="hero-sub">
-                <strong>João Paulo</strong> — Analista funcional SAP SD focado no ecossistema SAP e me aprofundando a cada dia nos processos Order-to-Cash, localização fiscal brasileira e desenvolvimento ABAP. Engenheiro de Produção e Analista  de Dados, unindo a eficiência de processos à inteligência analítica. 
+                <strong>João Paulo</strong> — Analista funcional SAP SD focado no ecossistema SAP e me aprofundando a cada dia nos processos Order-to-Cash, localização fiscal brasileira e desenvolvimento ABAP. Formado em Engenharia de Produção e Ciência de Dados, unindo a eficiência de processos à inteligência analítica. 
               </p>
               <span className="scroll-hint">↓ role para baixo</span>
             </div>
